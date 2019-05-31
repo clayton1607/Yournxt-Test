@@ -5,7 +5,7 @@ def palindrome(num):
         return True
     else:
         return False
-i=0
+i=1
 try:
     while True:
         val=int(num)
